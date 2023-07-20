@@ -1,38 +1,20 @@
 ---
-title: Hello World
+title: Dance in the CS world
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+##### Welcome to my channel! I'm Wenliang Tu, an undergraduate student majoying in computer science in SJTU. Nice2CU!
 
-## Quick Start
+## This is all about me
 
-### Create a new post
+## School work
 
-``` bash
-$ hexo new "My New Post"
-```
+I start my journey on computer science from 2022 Fall in John Hopcropt class, SJTU.
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+After one-year hard work, I get a glimpse of all kinds of fields of computer science, such as machine learning, computing complexity, combinatorics.
 
-### Run server
+I will keep on going and try to top the CS world!
 
-``` bash
-$ hexo server
-```
+# Personal interest
 
-More info: [Server](https://hexo.io/docs/server.html)
+I'm always the curious and trying type. I learnt piano when I was young, and right now I'm interested in all kinds of music, especially a genra called melodic dubstep.
 
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+Hope to meet like-minded friends!

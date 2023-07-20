@@ -2,11 +2,11 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-# menu:
-#   Home: /
-#   About: /aboutme
-#   Archives: /archives
-# rss: /atom.xml
+menu:
+  Home: /
+  About: /aboutme
+  Archives: /archives
+rss: /atom.xml
 
 # Site
 title: Hexo
@@ -19,7 +19,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://MELODICDUBSTEP.github.io/project
+url: http://melodicdubstep.github.io/project
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,9 +103,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: alpha-dust
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: https://github.com/MELODICDUBSTEP/MELODICDUBSTEP.github.io.git
+  branch: master
