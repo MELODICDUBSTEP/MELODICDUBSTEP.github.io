@@ -2,18 +2,18 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-menu:
-  Home: /
-  About: /aboutme
-  Archives: /archives
-rss: /atom.xml
+# menu:
+#   Home: /
+#   About: /aboutme
+#   Archives: /archives
+# rss: /atom.xml
 
 # Site
-title: Hexo
-subtitle: ''
+title: 'AboutMe'
+subtitle: 'Dance!'
 description: ''
 keywords:
-author: Wenliang Tu
+author: 'Wenliang Tu'
 language: en
 timezone: ''
 
@@ -110,4 +110,4 @@ theme: alpha-dust
 deploy:
   type: git
   repository: https://github.com/MELODICDUBSTEP/MELODICDUBSTEP.github.io.git
-  branch: master
+  branch: main
