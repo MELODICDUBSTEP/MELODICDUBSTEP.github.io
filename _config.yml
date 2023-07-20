@@ -7,9 +7,14 @@
 #   About: /aboutme
 #   Archives: /archives
 # rss: /atom.xml
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about.html
 
-# Site
-title: 'AboutMe'
+#V Site
+title: AboutMe
 subtitle: 'Dance!'
 description: ''
 keywords:
